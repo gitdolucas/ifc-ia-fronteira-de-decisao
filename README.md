@@ -6,13 +6,13 @@ Para executar este projeto em sua máquina local, siga as instruções abaixo:
 
 
 - Clone este repositório em sua máquina local usando o comando abaixo:
-    > git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    `git clone https://github.com/gitdolucas/ifc-ia-fronteira-de-decisao.git`
 
 - Instale as dependências do projeto:
-    > npm install
+    `npm install`
 
 - Inicie o servidor de desenvolvimento:
-    > npm run dev
+    `npm run dev`
 
 - Abra seu navegador e acesse **http://127.0.0.1:3000/** para visualizar o projeto.
 
