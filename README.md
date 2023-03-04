@@ -7,22 +7,25 @@ Este projeto tem como objetivo mostrar um conjunto de dados divididos por uma fr
 
 ## Instalação
 
-Para executar este projeto em sua máquina local, siga as instruções abaixo:
+Para executar este projeto em sua máquina local, siga as instruções abaixo:  
 
   
   
 
-- Clone este repositório em sua máquina local usando o comando:
+- Clone este repositório em sua máquina local usando o comando:  
+
 `git clone https://github.com/gitdolucas/ifc-ia-fronteira-de-decisao.git`
 
   
 
-- Instale as dependências do projeto:
+- Instale as dependências do projeto:  
+
 `npm install`
 
   
 
-- Inicie o servidor de desenvolvimento:
+- Inicie o servidor de desenvolvimento:  
+
 `npm run dev`
 
   
